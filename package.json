@@ -1,0 +1,16 @@
+{
+  "name": "redis-bull-parser",
+  "version": "1.0.0",
+  "description": "Simple package to parse redis URL created with dokku into the format Bull queue is expecting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "bull",
+    "dokku"
+  ],
+  "author": "kwalish",
+  "license": "ISC"
+}
